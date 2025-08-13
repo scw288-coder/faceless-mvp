@@ -1,0 +1,20 @@
+[
+  {
+    "id": "calm01",
+    "mood": "calm",
+    "bpm": 82,
+    "path": "music/calm/calm01.mp3"
+  },
+  {
+    "id": "neutral01",
+    "mood": "neutral",
+    "bpm": 100,
+    "path": "music/neutral/neutral01.mp3"
+  },
+  {
+    "id": "energy01",
+    "mood": "energetic",
+    "bpm": 128,
+    "path": "music/energetic/energy01.mp3"
+  }
+]
